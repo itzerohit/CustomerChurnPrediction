@@ -4,16 +4,16 @@ Customer attrition or churn, is when customers stop doing business with a compan
 We are going to build a basic model for predicting customer churn using Telco Customer Churn dataset . We are using some classification algorithm to model customers who have left, using Python tools such as pandas for data manipulation and matplotlib for visualizations.
 
  # Steps Involved to Predict Customer Churn
-. #Importing Libraries
-. Loading Dataset
-. Exploratory Data Analysis
-. Outliers using IQR method
-. Cleaning and Transforming Data
-. One-hot Encoding
-. Rearranging Columns
-. Feature Scaling
-. Feature Selection
-. Prediction using Logistic Regression
-. Prediction using Support Vector Classifier
-. Prediction using Decision Tree Classifier
-. Prediction using KNN Classifier
+   # Importing Libraries
+   # Loading Dataset
+  # Exploratory Data Analysis
+  # Outliers using IQR method
+  # Cleaning and Transforming Data
+  # One-hot Encoding
+  # Rearranging Columns
+  # Feature Scaling
+  # Feature Selection
+  # Prediction using Logistic Regression
+  # Prediction using Support Vector Classifier
+  # Prediction using Decision Tree Classifier
+  # Prediction using KNN Classifier
