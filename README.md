@@ -1,19 +1,31 @@
-# CustomerChurnPrediction
-Customer attrition or churn, is when customers stop doing business with a company. It can have a significant impact on a company's revenue and it's crucial for businesses to find out the reasons why customers are leaving and take steps to reduce the number of customers leaving. One way to do this is by identifying customer segments that are at risk of leaving, and implementing retention strategies to keep them. Also, by using data and machine learning techniques, companies can predict which customers are likely to leave in the future and take actions to keep them before they decide to leave.
+# Customer Churn Prediction Using Machine Learning
 
-We are going to build a basic model for predicting customer churn using Telco Customer Churn dataset . We are using some classification algorithm to model customers who have left, using Python tools such as pandas for data manipulation and matplotlib for visualizations.
+A machine learning model to predict whether a customer will leave a telecom service, based on customer usage and account data.
 
- # Steps Involved to Predict Customer Churn
-   # Importing Libraries
-   # Loading Dataset
-  # Exploratory Data Analysis
-  # Outliers using IQR method
-  # Cleaning and Transforming Data
-  # One-hot Encoding
-  # Rearranging Columns
-  # Feature Scaling
-  # Feature Selection
-  # Prediction using Logistic Regression
-  # Prediction using Support Vector Classifier
-  # Prediction using Decision Tree Classifier
-  # Prediction using KNN Classifier
+## 🔍 Dataset
+Customer churn dataset with features like tenure, charges, internet service, contract type, etc.
+
+## 🧠 ML Algorithms Used
+- Logistic Regression
+- Random Forest
+- Decision Tree
+- SVM
+- KNN
+
+## 📊 Evaluation Metrics
+- Accuracy
+- Precision, Recall
+- Confusion Matrix
+- ROC-AUC
+
+## 📎 Project Structure
+- Data Cleaning & Preprocessing
+- EDA (Visualization of churn trends)
+- Model Building & Evaluation
+
+## 🧰 Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+## 🚀 How to Run
+Clone the repo and open the `.ipynb` file using Jupyter Notebook.
+
